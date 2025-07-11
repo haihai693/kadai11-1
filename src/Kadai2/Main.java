@@ -1,5 +1,5 @@
-package Kadai1;
-/*
+package Kadai2;
+
 public class Main {
     public static void main(String[] args) {
         // 1. 勇者と魔法使いを生成
@@ -22,4 +22,3 @@ public class Main {
         w.run();
     }
 }
-*/

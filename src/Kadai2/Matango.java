@@ -1,5 +1,4 @@
-package Kadai1;
-/*
+package Kadai2;
 public class Matango {
     int hp = 50;
     char suffix;
@@ -7,5 +6,3 @@ public class Matango {
         this.suffix = suffix;
     }
 }
-
- */

@@ -1,5 +1,4 @@
-package Kadai1;
-/*
+package Kadai2;
+
 public class Hero extends Character {
 }
- */
